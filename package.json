@@ -43,7 +43,7 @@
     "rxjs-compat": "^6.0.0-rc.0"
   },
   "devDependencies": {
-    "@angular/cli": "^10.2.1",
+    "@angular/cli": "^11.2.18",
     "@angular/compiler-cli": "6.1.10",
     "@angular/language-service": "6.1.10",
     "@phenomnomnominal/tsquery": "2.1.1",
